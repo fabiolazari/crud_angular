@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\app\\components\\template\\footer",
+    "\\frontend\\src\\app\\directives",
+    "\\frontend\\src\\app\\views\\product-crud",
+    "\\frontend\\src\\environments"
+  ],
+  "SelectedNode": "\\frontend\\src\\app\\directives\\for.directive.ts",
+  "PreviewInSolutionExplorer": false
+}
