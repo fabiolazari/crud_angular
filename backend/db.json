@@ -16,9 +16,14 @@
       "price": 5000.32
     },
     {
-      "name": "Lápis preto",
-      "price": "2.50",
+      "name": "Pen drive 16Gb",
+      "price": "45.78",
       "id": 4
+    },
+    {
+      "name": "Cama Box",
+      "price": "2500",
+      "id": 5
     }
   ]
 }
