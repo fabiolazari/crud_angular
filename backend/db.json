@@ -1,8 +1,9 @@
 {
   "products": [
     {
+      "id": 1,
       "name": "Caneta BIC Preta",
-      "id": 1
+      "price": 2.5
     },
     {
       "id": 2,
@@ -13,6 +14,11 @@
       "id": 3,
       "name": "Samdung S20+",
       "price": 5000.32
+    },
+    {
+      "name": "Lápis preto",
+      "price": "2.50",
+      "id": 4
     }
   ]
 }
