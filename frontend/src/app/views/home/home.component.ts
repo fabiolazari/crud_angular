@@ -10,7 +10,7 @@ export class HomeComponent implements OnInit {
 
     constructor(private headerService: HeaderService) {
         headerService.headerData = {
-            title: 'Início',
+            title: 'InÃ­cio',
             icon: 'home',
             routeUrl: ''
         }

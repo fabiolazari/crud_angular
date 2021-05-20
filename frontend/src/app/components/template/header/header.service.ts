@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+﻿import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import { HeaderData } from './header-data.model';
 
@@ -8,7 +8,7 @@ import { HeaderData } from './header-data.model';
 export class HeaderService {
 
     private _headerData = new BehaviorSubject<HeaderData>({
-        title: 'In�cio',
+        title: 'Início',
         icon: 'home',
         routeUrl: ''
     });
